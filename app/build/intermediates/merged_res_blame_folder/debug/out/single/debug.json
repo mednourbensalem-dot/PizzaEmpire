@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_bg_main.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\bg_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_btn_shop.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\btn_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_bg_pill.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\bg_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_item_upgrade.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\item_upgrade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_world.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_world.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_item_rank.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\item_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_bg_topbar.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\bg_topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\mipmap\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_btn_primary.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\btn_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_shop.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_ic_pizza.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\ic_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_leaderboard.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\anim_pop.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\anim\\pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-merged_res-4:\\drawable_bg_card_ready.xml.flat",
+        "source": "C:\\Users\\Med Nour\\.gradle\\daemon\\8.2\\com.pizzaempire.game.app-main-6:\\drawable\\bg_card_ready.xml"
+    },
+    {
+        "merged": "com.pizzaempire.game.app-merged_res-4:/layout_activity_signup.xml.flat",
+        "source": "com.pizzaempire.game.app-main-6:/layout/activity_signup.xml"
+    }
+]

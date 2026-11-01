@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <!-- The app now starts at the login screen -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".SignUpActivity" android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity" android:screenOrientation="portrait" />
+        <activity android:name=".LeaderboardActivity" android:screenOrientation="portrait" />
+        <activity android:name=".WorldActivity" android:screenOrientation="portrait" />
+        <activity android:name=".ShopActivity" android:screenOrientation="portrait" />
+        <activity android:name=".SettingsActivity" android:screenOrientation="portrait" />
+    </application>
+</manifest>

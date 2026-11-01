@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="32dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signup"
+            android:textColor="@color/tomato_dark"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etUser"
+            style="@style/Field"
+            android:layout_marginTop="24dp"
+            android:autofillHints="username"
+            android:hint="@string/username"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/etPass"
+            style="@style/Field"
+            android:autofillHints="newPassword"
+            android:hint="@string/password"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/etConfirm"
+            style="@style/Field"
+            android:autofillHints="newPassword"
+            android:hint="@string/confirm"
+            android:inputType="textPassword" />
+
+        <CheckBox
+            android:id="@+id/cbShowPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginTop="6dp"
+            android:text="@string/show_password"
+            android:textColor="@color/ink" />
+
+        <TextView
+            android:id="@+id/tvSuggestPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:layout_marginTop="4dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:padding="4dp"
+            android:text="@string/suggest_password"
+            android:textColor="@color/tomato_dark"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvError"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/danger"
+            android:textSize="14sp" />
+
+        <Button android:id="@+id/btnCreate" style="@style/BigButton" android:text="@string/create" />
+        <Button android:id="@+id/btnBackLogin" style="@style/BigButton" android:text="@string/back_login" />
+    </LinearLayout>
+</ScrollView>

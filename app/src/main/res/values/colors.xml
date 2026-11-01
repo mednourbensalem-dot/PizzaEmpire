@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tomato">#D84315</color>
+    <color name="tomato_dark">#A52F0B</color>
+    <color name="cream">#FFF3E0</color>
+    <color name="crust">#FFB74D</color>
+    <color name="cheese">#FFD54F</color>
+    <color name="basil">#43A047</color>
+    <color name="ink">#3E2723</color>
+    <color name="white">#FFFFFF</color>
+    <color name="amber">#FFA000</color>
+    <color name="danger">#E53935</color>
+</resources>

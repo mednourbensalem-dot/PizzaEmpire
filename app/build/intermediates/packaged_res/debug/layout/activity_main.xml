@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="32dp">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:background="@drawable/bg_card"
+            android:contentDescription="Pizza"
+            android:padding="6dp"
+            android:src="@drawable/ic_pizza" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/title"
+            android:textColor="@color/tomato_dark"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvWelcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:textSize="16sp" />
+
+        <Button android:id="@+id/btnPlay" style="@style/BigButton" android:text="@string/play" />
+        <Button android:id="@+id/btnNew" style="@style/BigButton" android:text="@string/new_game" />
+        <Button android:id="@+id/btnBoard" style="@style/BigButton" android:text="@string/leaderboard" />
+        <Button android:id="@+id/btnHow" style="@style/BigButton" android:text="@string/how" />
+        <Button android:id="@+id/btnSettings" style="@style/BigButton" android:text="@string/settings" />
+        <Button android:id="@+id/btnLogout" style="@style/BigButton" android:text="@string/logout" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Empire</string>
+    <string name="title">🍕 Pizza Empire</string>
+    <string name="play">Continue</string>
+    <string name="new_game">New game</string>
+    <string name="how">How to play</string>
+    <string name="settings">Settings</string>
+    <string name="sound">Sound effects</string>
+    <string name="replay_tutorial">Replay tutorial</string>
+    <string name="reset">Reset progress</string>
+    <string name="back">Back</string>
+    <string name="shop_title">🛍 Shop</string>
+    <string name="shop">SHOP</string>
+    <string name="how_to_play">1. Tap or drag on the floor to walk.\n\n2. Stand near an oven to pick up fresh pizzas.\n\n3. Walk to the purple counter to drop them off.\n\n4. Customers queue up, buy pizzas and leave cash. Walk over the green cash spot to collect it.\n\n5. Spend your money in the SHOP: carry more, walk faster, bake faster, hire helpers and more.\n\nDon\'t keep customers waiting: they get angry and leave!</string>
+    <string name="login">Log in</string>
+    <string name="signup">Create account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm password</string>
+    <string name="create">Sign up</string>
+    <string name="back_login">Back to log in</string>
+    <string name="leaderboard">🏆 Leaderboard</string>
+    <string name="logout">Log out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="show_password">Show password</string>
+    <string name="suggest_password">💡 Suggest password (pizza123)</string>
+</resources>

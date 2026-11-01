@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- the world, drawn in Java -->
+    <com.pizzaempire.game.GameView
+        android:id="@+id/gameView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- HUD on top, drawn in XML -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/btnSettings"
+            style="@style/Pill"
+            android:layout_marginStart="0dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:text="⚙" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tvMoney"
+            style="@style/Pill"
+            android:text="💵 0" />
+
+        <TextView
+            android:id="@+id/tvGems"
+            style="@style/Pill"
+            android:text="💎 0" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnShop"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        android:background="@drawable/btn_shop"
+        android:text="🛍\nSHOP"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+</FrameLayout>
